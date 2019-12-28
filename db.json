@@ -1,6 +1,6 @@
 {
-  "users":
-[{"id":1,"username":"utoombs0","email":"lschober0@foxnews.com","password":"tL65yovjzyk"},
+"users": [
+{"id":1,"username":"utoombs0","email":"lschober0@foxnews.com","password":"tL65yovjzyk"},
 {"id":2,"username":"fmuff1","email":"cscardifeild1@dagondesign.com","password":"LmApfk"},
 {"id":3,"username":"sfarish2","email":"ddruhan2@archive.org","password":"wmaSmt"},
 {"id":4,"username":"gradoux3","email":"dbroomhall3@businesswire.com","password":"wj80rdlYBk"},
@@ -49,5 +49,6 @@
 {"id":47,"username":"egeorgiades1a","email":"fsmillie1a@i2i.jp","password":"GKqC6mJntk"},
 {"id":48,"username":"mhilhouse1b","email":"hholah1b@skyrock.com","password":"afHNyxEFQ"},
 {"id":49,"username":"mwoolam1c","email":"gellery1c@howstuffworks.com","password":"mDvNu6Dz8m"},
-{"id":50,"username":"fknapton1d","email":"fferandez1d@alexa.com","password":"Dz2q9baSaBf"}]
+{"id":50,"username":"fknapton1d","email":"fferandez1d@alexa.com","password":"Dz2q9baSaBf"}
+]
 }
